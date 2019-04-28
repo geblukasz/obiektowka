@@ -10,4 +10,8 @@ public class Dog {
     void run(){
         System.out.println("Running");
     }
+
+    void sing(){
+        System.out.println("Sing");
+    }
 }
